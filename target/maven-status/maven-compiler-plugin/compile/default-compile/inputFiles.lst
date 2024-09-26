@@ -1,0 +1,11 @@
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/SpringbootRabbitMqApplication.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/email/EmailDetailDTO.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/email/EmailService.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/email/config/RabbitMQConfig.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/usermanagement/User.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/usermanagement/UserController.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/usermanagement/UserRepository.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/usermanagement/UserService.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/usermanagement/UserServiceImpl.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/usermanagement/dto/CreateUserDTO.java
+/home/ubuntu/Downloads/springbootRabbitMQ/src/main/java/com/example/springbootRabbitMQ/usermanagement/dto/GenericResponseDTO.java
